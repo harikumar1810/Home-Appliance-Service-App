@@ -5,8 +5,11 @@
 Project Title: Android-Based Home Appliance Service and Product Management System
 
 Institution: SASTRA DEEMED UNIVERSITY
+
 Department: School of Arts, Sciences, Humanities and Education (SASHE)
+
 Course: Undergraduate Project
+
 Academic Year: 2025–2026
 
 **📌 Overview**
